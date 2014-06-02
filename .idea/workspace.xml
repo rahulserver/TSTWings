@@ -1,0 +1,1345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidDesignerProfile">
+    <option name="fullProfile">
+      <profile>
+        <option name="device" value="2.7in QVGA" />
+        <option name="deviceConfiguration" value="Portrait" />
+        <option name="targetHashString" value="android-18" />
+        <option name="theme" value="AppTheme" />
+      </profile>
+    </option>
+    <option name="selection" value="[Full]" />
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState>
+        <option name="device" value="2.7in QVGA" />
+        <option name="dockMode" value="" />
+        <option name="nightMode" value="notnight" />
+        <option name="targetHashString" value="android-18" />
+        <option name="theme" value="AppTheme" />
+        <option name="visible" value="false" />
+      </GlobalState>
+    </option>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="Next" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="DEBUG" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6872053b-858e-4554-b053-56b5407a4fd5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/ServiceStartReceiver.java" />
+    </list>
+    <ignored path="Android Twitter Sharing.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/fragment.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1401019760289" ignored="false" />
+    <file path="/a.dummy" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1401368844146" ignored="false" />
+    <file path="/TwitterSession.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390841351635" ignored="false" />
+    <file path="/main2.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390147075566" ignored="false" />
+    <file path="/HomeScreenAuthActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390178940433" ignored="false" />
+    <file path="/StaticConstants.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1401367409279" ignored="false" />
+    <file path="/Twitter_Handler.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390837108830" ignored="false" />
+    <file path="$PROJECT_DIR$/bin/AndroidManifest.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390179306999" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399661605800" ignored="false" />
+    <file path="E:/../JPAndroid/gen/jp/digitalcloud/sample/twitter/auth/R.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390180222728" ignored="false" />
+    <file path="E:/../JPAndroid/gen/jp/digitalcloud/sample/twitter/auth/Manifest.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390180223366" ignored="false" />
+    <file path="E:/../JPAndroid/gen/jp/digitalcloud/sample/twitter/auth/BuildConfig.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390184298631" ignored="false" />
+    <file path="E:/../QatarTNTExport/src/sample/Controller.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390194172565" ignored="false" />
+    <file path="/Controller.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399726239327" ignored="false" />
+    <file path="E:/../QatarTNTExport/outputXMLfile.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390204800192" ignored="false" />
+    <file path="E:/../QatarTNTExport/CargoManifest_18-Jan-14 .xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390204542570" ignored="false" />
+    <file path="E:/../QatarTNTExport/CargoManifest_QR004_18_Jan_2014.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390204748007" ignored="false" />
+    <file path="E:/../QatarTNTExport/CargoManifest_QR1015_18_Jan_2014.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390204868380" ignored="false" />
+    <file path="/Twitt_Sharing.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390834810767" ignored="false" />
+    <file path="/MainActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1401368967080" ignored="false" />
+    <file path="/Dummy.txt" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1401692005157" ignored="false" />
+    <file path="E:/../camriders/application.properties" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390699510175" ignored="false" />
+    <file path="E:/FBPageHighlightHtmlUnit/src/com/rahulserver/fbhighlight/ForStackOverflow.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390746593047" ignored="false" />
+    <file path="/ForStackOverflow.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390746592722" ignored="false" />
+    <file path="E:/../TwitterFJPOC/src/com/example/TwitterFJPOC/TwitterApp.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390727450224" ignored="false" />
+    <file path="E:/../ExcelAccountAdderForTweetAutomizer/src/ReadFromExcel.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390727875814" ignored="false" />
+    <file path="/ReadFromExcel.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390727857585" ignored="false" />
+    <file path="/MailRetreiverService.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398006822232" ignored="false" />
+    <file path="/GmailService.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399822090605" ignored="false" />
+    <file path="E:/FBPageHighlightHtmlUnit/src/com/rahulserver/fbhighlight/App.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390748049425" ignored="false" />
+    <file path="/App.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390747563950" ignored="false" />
+    <file path="E:/../camriders/target/stacktrace.log" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390779902779" ignored="false" />
+    <file path="E:/../TweetToTwitter/src/com/blundell/tut/ttt/TweetToTwitterActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390808545910" ignored="false" />
+    <file path="E:/../Javamail/src/CheckJson.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390899151821" ignored="false" />
+    <file path="/CheckJson.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390899136244" ignored="false" />
+    <file path="E:/../camriders/grails-app/conf/DataSource.groovy" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390912416027" ignored="false" />
+    <file path="E:/../AdminTwitter/src/sample/sample.fxml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390931577889" ignored="false" />
+    <file path="E:/../AdminTwitter/src/sample/Controller.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1391702796355" ignored="false" />
+    <file path="E:/../AdminTwitter/src/sample/utils/StaticUtils.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1391140435268" ignored="false" />
+    <file path="E:/../AdminTwitter/src/sample/Main.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390932316263" ignored="false" />
+    <file path="/Main.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1397993644239" ignored="false" />
+    <file path="/StaticUtils.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390937080897" ignored="false" />
+    <file path="E:/../xuggle-xuggler-test/src/main/java/com/xuggle/xuggler/VideoInfo.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390966940214" ignored="false" />
+    <file path="E:/../xuggle-xuggler-test/src/main/java/com/xuggle/xuggler/TranscodingExample.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390967080655" ignored="false" />
+    <file path="/TranscodingExample.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390967055442" ignored="false" />
+    <file path="E:/../xuggle-xuggler-test/src/main/java/com/xuggle/xuggler/ModifyMediaExample.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390967813375" ignored="false" />
+    <file path="E:/../xuggle-xuggler-test/src/main/java/com/xuggle/xuggler/VideoThumbnailsExample.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390969428184" ignored="false" />
+    <file path="/VideoThumbnailsExample.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390969152859" ignored="false" />
+    <file path="E:/../xuggle-xuggler-test/src/main/java/com/xuggle/xuggler/HistogramEQ.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390969036915" ignored="false" />
+    <file path="/HistogramEQ.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390982534884" ignored="false" />
+    <file path="E:/../xuggle-xuggler-test/src/main/java/com/xuggle/xuggler/HistogramVideoEqualizationExample.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390972444975" ignored="false" />
+    <file path="/HistogramVideoEqualizationExample.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390972419798" ignored="false" />
+    <file path="E:/../EnhancementTechniquesVideoPlayer/src/sample/sample.fxml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390977796906" ignored="false" />
+    <file path="E:/../EnhancementTechniquesVideoPlayer/src/sample/Controller.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390978299759" ignored="false" />
+    <file path="E:/../EnhancementTechniquesVideoPlayer/src/sample/Main.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390978169548" ignored="false" />
+    <file path="E:/../EnhancementTechniquesVideoPlayer/pom.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390981265813" ignored="false" />
+    <file path="E:/../EnhancementTechniquesVideoPlayer/src/main/java/sample/Controller.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390993104333" ignored="false" />
+    <file path="E:/../EnhancementTechniquesVideoPlayer/src/main/java/sample/Filter.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390993046969" ignored="false" />
+    <file path="/Filter.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390993041127" ignored="false" />
+    <file path="E:/../EnhancementTechniquesVideoPlayer/src/main/java/sample/StaticUtils.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390981265813" ignored="false" />
+    <file path="E:/../EnhancementTechniquesVideoPlayer/src/main/java/sample/Main.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390991780202" ignored="false" />
+    <file path="E:/../EnhancementTechniquesVideoPlayer/src/main/java/sample/sample.fxml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1391016031507" ignored="false" />
+    <file path="E:/../EnhancementTechniquesVideoPlayer/EnhancementTechniquesVideoPlayer.iml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390981364252" ignored="false" />
+    <file path="E:/../EnhancementTechniquesVideoPlayer/src/main/java/sample/HistogramEQ.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390982534884" ignored="false" />
+    <file path="E:/../EnhancementTechniquesVideoPlayer/.idea/workspace.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1391139557013" ignored="false" />
+    <file path="E:/../VideoPlayerEnhancer/src/sample/Controller.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390997092300" ignored="false" />
+    <file path="E:/../VideoPlayerEnhancer/src/sample/Filter.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390997094257" ignored="false" />
+    <file path="E:/../VideoPlayerEnhancer/src/sample/HistogramEQ.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390997094257" ignored="false" />
+    <file path="E:/../VideoPlayerEnhancer/src/sample/sample.fxml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390997094257" ignored="false" />
+    <file path="E:/../VideoPlayerEnhancer/src/sample/Main.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1390997170672" ignored="false" />
+    <file path="E:/../ToneMapper/.idea/workspace.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1391139557013" ignored="false" />
+    <file path="E:/../ToneMapper/.idea/misc.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1391075716687" ignored="false" />
+    <file path="E:/../ToneMapper/src/syntaxcandy/ToneMapper.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1391078820237" ignored="false" />
+    <file path="/ToneMapper.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1391077699646" ignored="false" />
+    <file path="/strings.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399664843151" ignored="false" />
+    <file path="E:/../MyJavaTest/src/Main.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1391446143957" ignored="false" />
+    <file path="E:/../JavaScriptScraperOdesk/src/Scraper.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1391501335933" ignored="false" />
+    <file path="/Scraper.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393443093420" ignored="false" />
+    <file path="E:/../JavaScriptScraperChristopherConcepcion/src/sample/sample.fxml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1391502130829" ignored="false" />
+    <file path="E:/../JavaScriptScraperChristopherConcepcion/src/sample/Controller.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1391515642892" ignored="false" />
+    <file path="E:/../JavaScriptScraperChristopherConcepcion/src/sample/Main.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1391502426208" ignored="false" />
+    <file path="E:/../ImpressumFinder/src/sample/Controller.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1391508174461" ignored="false" />
+    <file path="E:/../camriders/grails-app/controllers/com/camriders/controllers/StreamController.groovy" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1391527308026" ignored="false" />
+    <file path="/StreamController.groovy" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1391527300992" ignored="false" />
+    <file path="/Dummy.groovy" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1392361236477" ignored="false" />
+    <file path="E:/../TaggableDemo/grails-app/controllers/taggabledemo/ProductController.groovy" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1392363384977" ignored="false" />
+    <file path="/ProductController.groovy" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1392363416772" ignored="false" />
+    <file path="E:/../TaggableDemo/web-app/js/jquery.tokeninput.js" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1392220274316" ignored="false" />
+    <file path="E:/../TaggableDemo/web-app/css/token-input-facebook.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1392220374719" ignored="false" />
+    <file path="E:/../TaggableDemo/grails-app/views/layouts/main.gsp" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1392362895210" ignored="false" />
+    <file path="/main.gsp" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1392362895227" ignored="false" />
+    <file path="E:/../TaggableDemo/grails-app/views/product/_form.gsp" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1392221644338" ignored="false" />
+    <file path="/_form.gsp" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1392221664841" ignored="false" />
+    <file path="$USER_HOME$/.grails/2.2.1/projects/TaggableDemo/plugins/hibernate-2.2.1/grails-app/i18n/messages.properties" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1392221379000" ignored="false" />
+    <file path="E:/../TaggableDemo/grails-app/views/_tags.gsp" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1392221854861" ignored="false" />
+    <file path="/_tags.gsp" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1392221692061" ignored="false" />
+    <file path="E:/../camriders/grails-app/views/camRegistration/_form.gsp" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1392221664841" ignored="false" />
+    <file path="E:/../TaggableDemo/grails-app/views/product/create.gsp" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1392221727030" ignored="false" />
+    <file path="E:/../ImageUploader/src/sample/sample.fxml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1392314183238" ignored="false" />
+    <file path="E:/../ImageUploader/src/sample/Controller.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1392314146956" ignored="false" />
+    <file path="E:/../ImageUploader/src/sample/Main.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1392315146978" ignored="false" />
+    <file path="E:/../SeleniumTest/src/Main.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1392313493210" ignored="false" />
+    <file path="/sample.fxml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399724689796" ignored="false" />
+    <file path="E:/../MovieHop/res/values/strings.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1392363579984" ignored="false" />
+    <file path="E:/../MovieHop/AndroidManifest.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393587526025" ignored="false" />
+    <file path="E:/../MovieHop/src/com/example/MovieHop/HomeActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393588346719" ignored="false" />
+    <file path="E:/../MovieHop/res/layout/main.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393583069141" ignored="false" />
+    <file path="E:/../MovieHop/build.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1392363581413" ignored="false" />
+    <file path="E:/../ManhattenDoctorInfoScraper/src/Scraper.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393443608422" ignored="false" />
+    <file path="/main.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1401018260833" ignored="false" />
+    <file path="E:/../MovieHop/res/drawable-hdpi/shape.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393582667909" ignored="false" />
+    <file path="E:/../MovieHop/src/com/example/MovieHop/customwidgets/MultiSelectionSpinner.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393586845027" ignored="false" />
+    <file path="/MultiSelectionSpinner.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393584210228" ignored="false" />
+    <file path="/HomeActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393588332899" ignored="false" />
+    <file path="E:/../MovieHop/res/values/styles.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393587611578" ignored="false" />
+    <file path="/styles.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393587611578" ignored="false" />
+    <file path="E:/../MovieHop/res/layout/theatresspinnercustom.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393587886739" ignored="false" />
+    <file path="/theatresspinnercustom.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393587885744" ignored="false" />
+    <file path="E:/../server/src/com/techsers/goldengoose/nikeshoes/ocr/OCRHelper.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393884893864" ignored="false" />
+    <file path="/OCRHelper.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393876745717" ignored="false" />
+    <file path="E:/../EmailScraper/Urls.txt" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393875688775" ignored="false" />
+    <file path="E:/../EmailScraper/output.csv" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393878696559" ignored="false" />
+    <file path="E:/../TwitterListenerPOC/src/twitterlistenerobjects/TweetListener.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393886064841" ignored="false" />
+    <file path="/TweetListener.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1395829138992" ignored="false" />
+    <file path="E:/../TwitterListenerPOC/src/com/techsers/goldengoose/nikeshoes/TwitterCommon.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393878273191" ignored="false" />
+    <file path="E:/../TwitterListenerPOC/src/com/techsers/goldengoose/twitter/TwitterScraper.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393878273191" ignored="false" />
+    <file path="E:/../TwitterListenerPOC/src/com/techsers/goldengoose/twitter/TwitterRSVP.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393878273191" ignored="false" />
+    <file path="E:/../TwitterListenerPOC/src/com/techsers/goldengoose/jsonrpc/server/GoldenGooseRPCServer.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393878264118" ignored="false" />
+    <file path="E:/../TwitterListenerPOC/src/com/techsers/goldengoose/nikeshoes/ocr/OCRHelper.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393886235284" ignored="false" />
+    <file path="E:/../TwitterListenerPOC/src/com/techsers/goldengoose/twitter/TwitterParser.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393878273191" ignored="false" />
+    <file path="E:/../TwitterListenerPOC/src/twitterlistenerobjects/AccountAndFollowing.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393883299689" ignored="false" />
+    <file path="/AccountAndFollowing.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1395828688224" ignored="false" />
+    <file path="E:/../TwitterListenerPOC/src/twitterlistenerobjects/ExcelUtils.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393883225484" ignored="false" />
+    <file path="/ExcelUtils.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1395828563460" ignored="false" />
+    <file path="E:/../TwitterListenerPOC/src/sample/Controller.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1393885634021" ignored="false" />
+    <file path="E:/../ServicesForeverTesting/AndroidManifest.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1395681885302" ignored="false" />
+    <file path="E:/../ServicesForeverTesting/res/values/strings.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1395681807632" ignored="false" />
+    <file path="E:/../ServicesForeverTesting/src/com/example/ServicesForeverTesting/MyActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1395679241123" ignored="false" />
+    <file path="E:/../ServicesForeverTesting/res/layout/main.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1395681794812" ignored="false" />
+    <file path="E:/../ServicesForeverTesting/build.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1395679241123" ignored="false" />
+    <file path="E:/../ServicesForeverTesting/src/Main.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1395679627476" ignored="false" />
+    <file path="E:/../ServicesForeverTesting/gen/com/example/ServicesForeverTesting/R.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1395681889634" ignored="false" />
+    <file path="E:/../ServicesForeverTesting/src/com/example/ServicesForeverTesting/Main.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1395681956127" ignored="false" />
+    <file path="E:/../ServicesForeverTesting/src/com/example/ServicesForeverTesting/MyAlarmService.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1395737015320" ignored="false" />
+    <file path="/MyAlarmService.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1395682538726" ignored="false" />
+    <file path="E:/../TwitterRsvpBot/src/twitterlistenerobjects/ExcelUtils.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1395829396946" ignored="false" />
+    <file path="E:/../TwitterRsvpBot/src/twitterlistenerobjects/AccountAndFollowing.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1395828689491" ignored="false" />
+    <file path="E:/../TwitterRsvpBot/src/twitterlistenerobjects/TweetListener.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1395829870711" ignored="false" />
+    <file path="E:/../DrawingText/src/userinterfaceobjects/retweetform.fxml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1395833987781" ignored="false" />
+    <file path="E:/../DrawingText/src/userinterfaceobjects/RetweetFormController.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1395833879218" ignored="false" />
+    <file path="/RetweetFormController.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1395833660574" ignored="false" />
+    <file path="E:/../TimerTaskRecurringInvokingServiceDemo/src/com/example/TimerTaskRecurringInvokingServiceDemo/Main.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1397993650844" ignored="false" />
+    <file path="/AlarmReceiver.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400676346678" ignored="false" />
+    <file path="/MailRetreiverGmailService.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1401023609539" ignored="false" />
+    <file path="/BootReceiver.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398011727904" ignored="false" />
+    <file path="E:/../LocationFinder/res/values/strings.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398076943114" ignored="false" />
+    <file path="E:/../LocationFinder/AndroidManifest.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398077515310" ignored="false" />
+    <file path="E:/../LocationFinder/res/layout/main.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398076943882" ignored="false" />
+    <file path="E:/../LocationFinder/build.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398076943882" ignored="false" />
+    <file path="E:/../LocationFinder/src/com/example/LocationFinder/MyActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398078354144" ignored="false" />
+    <file path="/MyActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399331412266" ignored="false" />
+    <file path="E:/../TimerTaskRecurringInvokingServiceDemo/AndroidManifest.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398078431044" ignored="false" />
+    <file path="E:/../AndroidScannerProject/res/layout/recept_page.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398611870307" ignored="false" />
+    <file path="/recept_page.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398611867478" ignored="false" />
+    <file path="E:/../AndroidScannerProject/res/layout/recept_page_1.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398532234170" ignored="false" />
+    <file path="/recept_page_1.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398532219322" ignored="false" />
+    <file path="E:/../AndroidScannerProject/src/com/example/AndroidScannerProject/ReceptPageOneActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398611054501" ignored="false" />
+    <file path="E:/../AndroidScannerProject/AndroidManifest.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398609255176" ignored="false" />
+    <file path="/ReceptPageOneActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398611053572" ignored="false" />
+    <file path="E:/../AndroidScannerProject/src/com/example/AndroidScannerProject/ReceptPageTwoActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398610872087" ignored="false" />
+    <file path="/ReceptPageTwoActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398610870488" ignored="false" />
+    <file path="E:/../AndroidScannerProject/res/layout/recept_page_2.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398612011982" ignored="false" />
+    <file path="/recept_page_2.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398612007417" ignored="false" />
+    <file path="E:/../AndroidScannerProject/src/com/example/AndroidScannerProject/FrontPageActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398609971246" ignored="false" />
+    <file path="/FrontPageActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398609775834" ignored="false" />
+    <file path="E:/../AndroidScannerProject/src/com/example/AndroidScannerProject/ReceptPageThreeActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398613947486" ignored="false" />
+    <file path="/ReceptPageThreeActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398613946020" ignored="false" />
+    <file path="E:/../AndroidScannerProject/res/layout/recept_page_3.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398614136035" ignored="false" />
+    <file path="E:/../AndroidScannerProject/src/com/example/AndroidScannerProject/LoginActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398609184298" ignored="false" />
+    <file path="/LoginActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398609182856" ignored="false" />
+    <file path="E:/../AndroidScannerProject/res/layout/login.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398609116535" ignored="false" />
+    <file path="/login.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398609113589" ignored="false" />
+    <file path="E:/../AndroidScannerProject/src/com/example/AndroidScannerProject/InfoPageActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398609559518" ignored="false" />
+    <file path="/InfoPageActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398609556657" ignored="false" />
+    <file path="E:/../AndroidScannerProject/res/layout/infopage.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398609517940" ignored="false" />
+    <file path="/infopage.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398609517940" ignored="false" />
+    <file path="/recept_page_3.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398614133241" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/WebViewTweeterAndroid/src/com/example/WebViewTweeterAndroid/MyActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398790119630" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/WebViewTweeterAndroid/src/com/example/WebViewTweeterAndroid/ABCService.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398795482195" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/WebViewTweeterAndroid/AndroidManifest.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398787275665" ignored="false" />
+    <file path="/ABCService.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398794018030" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/JauntAndroid/src/com/example/JauntAndroid/HttpUrlConnectionExample.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399122092550" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/HttpUnitAndroid/src/com/example/HttpUnitAndroid/MyActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398798577124" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/HttpUnitAndroid/build.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398798387678" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/HttpUnitAndroid/AndroidManifest.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398798474736" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/HttpUnitAndroid/res/layout/main.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398798387678" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/HttpUnitAndroid/res/values/strings.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398798387678" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/JauntTwitter/src/JSOUPPost.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398882682078" ignored="false" />
+    <file path="/JSOUPPost.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398882663098" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/JauntAndroid/src/com/example/JauntAndroid/MyActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398945570370" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/JauntTwitter/src/HttpUrlConnectionExample.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1398945059266" ignored="false" />
+    <file path="/HttpUrlConnectionExample.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399052972960" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/AdminTwitter/src/sample/sample.fxml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399724689796" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/AdminTwitter/src/sample/Controller.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399727213263" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/AdminTwitter/src/sample/utils/StaticUtils.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399125298428" ignored="false" />
+    <file path="/DialogActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1401375385498" ignored="false" />
+    <file path="/checkbox.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399328099408" ignored="false" />
+    <file path="E:/IdeaProjects/CityFromIp/AndroidManifest.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399331326040" ignored="false" />
+    <file path="E:/IdeaProjects/CityFromIp/res/values/strings.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399330166611" ignored="false" />
+    <file path="E:/IdeaProjects/CityFromIp/src/com/example/CityFromIp/MyActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399331418754" ignored="false" />
+    <file path="E:/IdeaProjects/CityFromIp/res/layout/main.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399330167362" ignored="false" />
+    <file path="E:/IdeaProjects/CityFromIp/build.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399330167362" ignored="false" />
+    <file path="E:/IdeaProjects/CityFromIp/src/com/example/CityFromIp/Utils.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399330212795" ignored="false" />
+    <file path="E:/IdeaProjects/CityFromIp/src/com/example/CityFromIp/MyLocation.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399331209688" ignored="false" />
+    <file path="E:/IdeaProjects/camriders/application.properties" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399460508215" ignored="false" />
+    <file path="E:/IdeaProjects/StoreLocatorApplicationMock/src/com/example/storelocatorapplication/StoreLocatorActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399651813914" ignored="false" />
+    <file path="/StoreLocatorActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399664670338" ignored="false" />
+    <file path="E:/IdeaProjects/StoreLocatorApplicationMock/AndroidManifest.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399650268655" ignored="false" />
+    <file path="E:/IdeaProjects/StoreLocatorApplicationMock/res/values/strings.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399652498310" ignored="false" />
+    <file path="E:/IdeaProjects/StoreLocatorWithouPersistence/src/com/example/storelocatorwithoutpersistence/StoreLocatorActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399655432878" ignored="false" />
+    <file path="E:/IdeaProjects/StoreLocatorWithouPersistence/src/com/example/storelocatorwithoutpersistence/TaskHelper.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399653987707" ignored="false" />
+    <file path="E:/IdeaProjects/StoreLocatorWithouPersistence/src/com/example/storelocatorwithoutpersistence/FetchStoresAsyncTask.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399654813447" ignored="false" />
+    <file path="/FetchStoresAsyncTask.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399654812395" ignored="false" />
+    <file path="/TaskHelper.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399653987372" ignored="false" />
+    <file path="E:/IdeaProjects/StoreLocatorWithouPersistence/AndroidManifest.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399654009183" ignored="false" />
+    <file path="E:/IdeaProjects/StoreLocatorWithouPersistence/gen/com/example/storelocatorwithoutpersistence/BuildConfig.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399654072630" ignored="false" />
+    <file path="E:/IdeaProjects/StoreLocatorWithPersistenceOrUnlock/src/com/example/storelocatorwithoutpersistence/StoreLocatorActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399655899293" ignored="false" />
+    <file path="E:/IdeaProjects/StoreLocatorWithPersistenceOrUnlock/.idea/.name" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399655947884" ignored="false" />
+    <file path="/.name" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399655945319" ignored="false" />
+    <file path="E:/IdeaProjects/StoreLocatorWithPersistenceOrUnlock/.idea/workspace.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399657404344" ignored="false" />
+    <file path="E:/IdeaProjects/StoreLocatorWithPersistenceOrUnlock/res/values/strings.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399655998387" ignored="false" />
+    <file path="E:/IdeaProjects/ForElance/StoreLocatorWithouPersistenceOrientationUnlock/src/com/example/storelocatorwithoutpersistence/StoreLocatorActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399664936365" ignored="false" />
+    <file path="E:/IdeaProjects/ForElance/StoreLocatorWithouPersistenceOrientationUnlock/res/layout/maps.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399664421745" ignored="false" />
+    <file path="E:/IdeaProjects/ForElance/StoreLocatorWithouPersistenceOrientationUnlock/AndroidManifest.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399661908176" ignored="false" />
+    <file path="E:/IdeaProjects/GMaps/AndroidManifest.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399661476575" ignored="false" />
+    <file path="E:/IdeaProjects/GMaps/res/values/strings.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399659785867" ignored="false" />
+    <file path="E:/IdeaProjects/GMaps/src/com/example/GMaps/MyActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399660367967" ignored="false" />
+    <file path="E:/IdeaProjects/GMaps/build.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399659786244" ignored="false" />
+    <file path="E:/IdeaProjects/GMaps/res/layout/main.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399659810299" ignored="false" />
+    <file path="E:/IdeaProjects/GMaps/project.properties" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399661161051" ignored="false" />
+    <file path="E:/IdeaProjects/GMaps/GMaps.iml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399661197455" ignored="false" />
+    <file path="D:/adt-bundle-windows-x86_64-20130729/sdk/extras/google/google_play_services/libproject/google-play-services_lib/project.properties" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399661784666" ignored="false" />
+    <file path="E:/IdeaProjects/ForElance/StoreLocatorWithouPersistenceOrientationUnlock/project.properties" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399661878842" ignored="false" />
+    <file path="E:/IdeaProjects/ForElance/StoreLocatorWithouPersistenceOrientationUnlock/src/com/example/storelocatorwithoutpersistence/MapsActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399665070422" ignored="false" />
+    <file path="/MapsActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399665052598" ignored="false" />
+    <file path="/maps.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399664420484" ignored="false" />
+    <file path="E:/IdeaProjects/ForElance/StoreLocatorWithouPersistenceOrientationUnlock/res/values/strings.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399664848561" ignored="false" />
+    <file path="E:/IdeaProjects/ForElance/StoreLocatorWithPersistenceOrientationUnlock/src/com/example/storelocatorwithoutpersistence/StoreLocatorActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399665539768" ignored="false" />
+    <file path="E:/IdeaProjects/ForElance/StoreLocatorWithPersistenceOrientationUnlock/project.properties" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399665874640" ignored="false" />
+    <file path="E:/IdeaProjects/ForElance/StoreLocatorWithPersistenceOrientationUnlock/gen/com/example/storelocatorwithoutpersistence/BuildConfig.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399665892007" ignored="false" />
+    <file path="D:/adt-bundle-windows-x86_64-20130729/sdk/extras/google/google_play_services/libproject/google-play-services_lib/gen/com/google/android/gms/BuildConfig.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399665892007" ignored="false" />
+    <file path="/PushNotification.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399718958957" ignored="false" />
+    <file path="/UpdateAppActivity.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399720185080" ignored="false" />
+    <file path="/GetTwitterDispName.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399826073586" ignored="false" />
+    <file path="E:/IdeaProjects/GetUsername/src/GetTwitterUserName.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399833098414" ignored="false" />
+    <file path="/GetTwitterUserName.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399832955421" ignored="false" />
+    <file path="E:/IdeaProjects/GetUsername/src/GetTwitterRSSJson.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399898281051" ignored="false" />
+    <file path="/GetTwitterRSSJson.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399895569986" ignored="false" />
+    <file path="E:/IdeaProjects/GetUsername/src/PostToTwitter.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399958228379" ignored="false" />
+    <file path="/PostToTwitter.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1399958187178" ignored="false" />
+    <file path="E:/IdeaProjects/camriders/.idea/workspace.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400599713795" ignored="false" />
+    <file path="/ServiceStartReceiver.java" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400688146256" ignored="false" />
+    <file path="E:/IdeaProjects/BasicMapDecarta/basicmap.html" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400781764606" ignored="false" />
+    <file path="E:/IdeaProjects/BasicMapDecarta/.idea/workspace.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400782868035" ignored="false" />
+    <file path="E:/IdeaProjects/BasicMapDecarta/.idea/misc.xml" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400763740090" ignored="false" />
+    <file path="E:/IdeaProjects/BasicMapDecarta/deCarta.JS4.js" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400782549124" ignored="false" />
+    <file path="E:/IdeaProjects/BasicMapDecarta/Config.js" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400782546358" ignored="false" />
+    <file path="E:/IdeaProjects/BasicMapDecarta/exampleUtils.js" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400763890591" ignored="false" />
+    <file path="E:/IdeaProjects/BasicMapDecarta/css/examples.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400763938805" ignored="false" />
+    <file path="E:/IdeaProjects/BasicMapDecarta/css/core.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400763966685" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaSearch/searchpage.html" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400778619803" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaSearch/js/html5shiv.js" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400778826208" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaSearch/css/searchbox.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400778875206" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaSearch/css/style.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400778909044" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaSearch/css/infoWindow.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400778931362" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaSearch/css/results.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400778948890" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaSearch/css/directions.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400778975045" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaSearch/css/core.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400779015830" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaSearch/css/slider.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400779032289" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaSearch/css/UI/LocateControl.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400779069362" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaSearch/css/UI/ZoomControl.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400779153448" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaSearch/css/UI/OverviewControl.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400779176263" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaSearch/css/UI/ScaleControl.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400779191434" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaSearch/css/UI/SelectControl.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400779217139" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaSearch/css/UI/TrafficControl.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400779233039" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaSearch/css/UI/ZoomControlMobile.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400779251760" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaSearch/css/UI/LayerControl.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400779268019" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaSearch/css/UI/ImgSettingControl.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400779284273" ignored="false" />
+    <file path="/basicmap.html" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400781130335" ignored="false" />
+    <file path="E:/IdeaProjects/BasicMapDecarta/js/UI/LocateControl.js" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400780580971" ignored="false" />
+    <file path="/Config.js" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400780987330" ignored="false" />
+    <file path="E:/IdeaProjects/searchbox/searchbox.html" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400841653363" ignored="false" />
+    <file path="E:/IdeaProjects/searchbox/searchbox.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400841290489" ignored="false" />
+    <file path="E:/IdeaProjects/searchbox/shims.js" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400841314994" ignored="false" />
+    <file path="E:/IdeaProjects/searchbox/searchbox.js" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400841704907" ignored="false" />
+    <file path="/searchbox.html" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400841639742" ignored="false" />
+    <file path="/searchbox.js" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400841697092" ignored="false" />
+    <file path="E:/IdeaProjects/BasicMap/ex-BasicMap.html" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400842479795" ignored="false" />
+    <file path="E:/IdeaProjects/BasicMap/deCarta.JS4.js" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400844192265" ignored="false" />
+    <file path="E:/IdeaProjects/BasicMap/Config.js" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400843063502" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaMineDownload/Config.js" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400859375860" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaMineDownload/deCarta.JS4.js" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400859320163" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaMineDownload/deCarta.JS4.min.js" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400859320163" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaMineDownload/symbols/src/_Users_brenthamby_code_decarta_JSAPI_API_src_JS4_js_core_Configuration.js.html" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400859320163" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaMineDownload/ex-AJAX-REST.html" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400859320163" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaMineDownload/index.html" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1400859320163" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaMineDownload/labsdecarta.html" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1401261424028" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaMineDownload/css/style.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1401261720710" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaMineDownload/css/infoWindow.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1401261750108" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaMineDownload/css/results.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1401262112024" ignored="false" />
+    <file path="E:/IdeaProjects/DecartaMineDownload/css/directions.css" changelist="6872053b-858e-4554-b053-56b5407a4fd5" time="1401261813263" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/Twitter_code/Twitter_Handler.java" line="150" class="com.rahulserver.twitterbooom.Twitter_code.Twitter_Handler$2" package="com.rahulserver.twitterbooom.Twitter_code">
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/Twitter_code/Twitter_Handler.java" line="105" class="com.rahulserver.twitterbooom.Twitter_code.Twitter_Handler" package="com.rahulserver.twitterbooom.Twitter_code">
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/Twitter_code/Twitt_Sharing.java" line="82" class="com.rahulserver.twitterbooom.Twitter_code.Twitt_Sharing.PostTwittTask" package="com.rahulserver.twitterbooom.Twitter_code">
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/GmailService.java" line="213" class="com.rahulserver.twitterbooom.services.GmailService" package="com.rahulserver.twitterbooom.services">
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/GmailService.java" line="64" class="com.rahulserver.twitterbooom.services.GmailService" package="com.rahulserver.twitterbooom.services">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/GmailService.java" line="52" class="com.rahulserver.twitterbooom.services.GmailService" package="com.rahulserver.twitterbooom.services">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/Twitter_sharing/MainActivity.java" line="410" class="com.rahulserver.twitterbooom.Twitter_sharing.MainActivity.OkButtonClickAsyncTask" package="com.rahulserver.twitterbooom.Twitter_sharing">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/MailRetreiverGmailService.java" line="0" class="MailRetreiverGmailService.java" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/MailRetreiverGmailService.java" line="384" class="com.rahulserver.twitterbooom.services.MailRetreiverGmailService.TwoTasks" package="com.rahulserver.twitterbooom.services">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/MailRetreiverGmailService.java" line="374" class="com.rahulserver.twitterbooom.services.MailRetreiverGmailService.TwoTasks" package="com.rahulserver.twitterbooom.services">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/MailRetreiverGmailService.java" line="361" class="com.rahulserver.twitterbooom.services.MailRetreiverGmailService.TwoTasks" package="com.rahulserver.twitterbooom.services">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/MailRetreiverGmailService.java" line="752" class="com.rahulserver.twitterbooom.services.MailRetreiverGmailService" package="com.rahulserver.twitterbooom.services">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/MailRetreiverGmailService.java" line="782" class="com.rahulserver.twitterbooom.services.MailRetreiverGmailService" package="com.rahulserver.twitterbooom.services">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/MailRetreiverGmailService.java" line="793" class="com.rahulserver.twitterbooom.services.MailRetreiverGmailService" package="com.rahulserver.twitterbooom.services">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/MailRetreiverGmailService.java" line="578" class="com.rahulserver.twitterbooom.services.MailRetreiverGmailService.PollGmailTask" package="com.rahulserver.twitterbooom.services">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/MailRetreiverGmailService.java" line="538" class="com.rahulserver.twitterbooom.services.MailRetreiverGmailService.TwoTasks" package="com.rahulserver.twitterbooom.services">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Android Twitter Sharing" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/Twitter_sharing/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="646" column="83" selection-start="28636" selection-end="28636" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="button_gmail.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/drawable/button_gmail.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tstwings_bg.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/drawable/tstwings_bg.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlarmReceiver.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/broadcastreceivers/AlarmReceiver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="109" column="36" selection-start="5271" selection-end="5425" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MailRetreiverGmailService.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/MailRetreiverGmailService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="608" column="107" selection-start="31571" selection-end="31571" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UpdateAppActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/UpdateAppActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="30" selection-start="853" selection-end="853" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServiceStartReceiver.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/ServiceStartReceiver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="59" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DialogActivity.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/DialogActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="195" column="76" selection-start="9301" selection-end="9408" vertical-scroll-proportion="0.76817286">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StaticConstants.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/utils/StaticConstants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="44" selection-start="644" selection-end="657" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\rahulserver\Documents\KeyStore\twitterbooom" />
+    <option name="KEY_ALIAS" value="rahulserver" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/res/layout/checkbox.xml" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/src/com/rahulserver/twitterbooom/utils/Utils.java" />
+        <option value="$PROJECT_DIR$/src/com/rahulserver/twitterbooom/utils/MyLocation.java" />
+        <option value="$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/UpdateAppActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/PushNotification.java" />
+        <option value="$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/GmailService.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/GetTwitterDispName.java" />
+        <option value="$PROJECT_DIR$/src/com/rahulserver/twitterbooom/broadcastreceivers/AlarmReceiver.java" />
+        <option value="$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/ServiceStartReceiver.java" />
+        <option value="$PROJECT_DIR$/res/layout/main.xml" />
+        <option value="$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/MailRetreiverGmailService.java" />
+        <option value="$PROJECT_DIR$/src/com/rahulserver/twitterbooom/utils/StaticConstants.java" />
+        <option value="$PROJECT_DIR$/src/com/rahulserver/twitterbooom/Twitter_sharing/MainActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/DialogActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1360" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android Twitter Sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Android 4.3 Platform &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android Twitter Sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android-Twitter-Example-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android Twitter Sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android-Twitter-Example-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twitterbooom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android Twitter Sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android-Twitter-Example-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twitterbooom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android Twitter Sharing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Android-Twitter-Example-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="ExportedApkPath" value="C:\Users\rahulserver\IdeaProjects\Twitter4jAndroidSamples\Android-Twitter-Example-master\tstwings.apk" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="ExportedModule" value="Android Twitter Sharing" />
+    <property name="last_opened_file_path" value="E:/IdeaProjects/ForElance/StoreLocatorWithouPersistenceOrientationUnlock" />
+    <property name="AndroidLayoutSelectedEditor" value="android-designer" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="AndroidRunProguardForReleaseBuild" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Android-Twitter-Example-master\res\drawable" />
+      <recent name="E:\Android-Twitter-Example-master\res\layout" />
+      <recent name="E:\Android-Twitter-Example-master\libs" />
+      <recent name="C:\Users\rahulserver\IdeaProjects\Twitter4jAndroidSamples\Android-Twitter-Example-master\res\drawable" />
+      <recent name="C:\Users\rahulserver\IdeaProjects\Twitter4jAndroidSamples\Android-Twitter-Example-master\libs" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="com.rahulserver.twitterbooom.utils.StaticConstants" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.rahulserver.twitterbooom" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Android-Twitter-Example-master\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.Android Twitter Sharing">
+    <configuration default="false" name="GetTwitterDispName" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.rahulserver.twitterbooom.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.rahulserver.twitterbooom.services.GetTwitterDispName" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Android Twitter Sharing" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Android Twitter Sharing" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="Android Twitter Sharing" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="-scale 0.5" />
+      <option name="WIPE_USER_DATA" value="true" />
+      <option name="DISABLE_BOOT_ANIMATION" value="true" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.Android Twitter Sharing" />
+      <item index="1" class="java.lang.String" itemvalue="Application.GetTwitterDispName" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.GetTwitterDispName" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6872053b-858e-4554-b053-56b5407a4fd5" name="Default" comment="" />
+      <created>1390062577835</created>
+      <updated>1390062577835</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1360" height="728" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864675" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3948718" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35551664" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24653313" sideWeight="0.9789104" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.02108963" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25346687" sideWeight="0.9789104" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2449923" sideWeight="0.9789104" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952815" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3251318" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3778559" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/GetTwitterDispName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="73" selection-start="3750" selection-end="3750" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="949" selection-end="949" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/GmailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="50" selection-start="5329" selection-end="5329" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/HttpUrlConnectionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="148" selection-start="1773" selection-end="1773" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/broadcastreceivers/BootReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="39" selection-start="1174" selection-end="1174" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20130729/sdk/platforms/android-18/android.jar!/java/lang/Long.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="23" selection-start="1562" selection-end="1562" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/broadcastreceivers/AlarmReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="36" selection-start="5271" selection-end="5425" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/ServiceStartReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="59" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/tstwings_bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/button_gmail.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state line="51" column="47" selection-start="2154" selection-end="2154" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/UpdateAppActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="30" selection-start="853" selection-end="853" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/utils/StaticConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="44" selection-start="644" selection-end="657" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/MailRetreiverGmailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="608" column="107" selection-start="31571" selection-end="31571" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/Twitter_sharing/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="646" column="83" selection-start="28636" selection-end="28636" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rahulserver/twitterbooom/services/DialogActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="195" column="76" selection-start="9301" selection-end="9408" vertical-scroll-proportion="0.76817286">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

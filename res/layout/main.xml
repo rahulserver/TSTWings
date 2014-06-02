@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/tstwings_bg">
+
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:onClick="Call_My_Blog"
+            android:orientation="horizontal">
+
+        <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="Call_My_Blog"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceLarge"/>
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:gravity="bottom|center"
+            android:weightSum="10"
+            android:orientation="horizontal">
+
+        <ImageButton
+                android:src="@drawable/button_twitter"
+                android:id="@+id/btn"
+                android:background="@null"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:layout_weight="5"
+                android:scaleType="fitCenter"
+                android:adjustViewBounds="true"
+                android:text="Twitter Account"/>
+        <ImageButton
+                android:src="@drawable/button_gmail"
+                android:background="@null"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:scaleType="fitCenter"
+                android:adjustViewBounds="true"
+                android:id="@+id/servicebtn"
+                android:text="Gmail Account"/>
+    </LinearLayout>
+
+</RelativeLayout>
